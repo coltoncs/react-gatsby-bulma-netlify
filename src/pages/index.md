@@ -1,31 +1,34 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Welcome to my World.
+image: /img/rasp-pi4.png
+heading: Coding with confidence
+subheading: A personal portfolio site for my web dev journey
 mainpitch:
-  title: Why Kaldi
+  title: Who Am I?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Hi, my name is Colton Sweeney and I'm a 21-year-old web developer and graphic 
+    designer living in Raleigh, NC. In my free time, I love building and programming 
+    computers, working on my G35 Coupe, and snapping photos of my cat and various other 
+    things.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Computers are my passion. For as long as I can remember I've held a personal connection 
+  computers. Whether it was playing with MS Paint when I was a toddler or fudging around 
+  with different image manipulation programs when I was middle school, I've always held a 
+  great fascination when it came to computers. Over the years, I've only grown my portfolio 
+  for what's possible when it comes to computers. Furthermore, my drive to learn more will 
+  grow.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/vs-code.PNG
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        I can help with a variety of coding needs, whether you need a custom bot 
+        implemented with your Smart Home tech, or a full-serviced website with 
+        all the bells and whistles, I'd be happy to help. I have experience with 
+        languages such as Java, C#, Python and frameworks such as Django, Express, 
+        and ASP.NET. I love playing around in JavaScript libraries, as well. As a 
+        matter of fact, this website was built using React and Gatsby! 
+    - image: /img/rasp-pi4.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
