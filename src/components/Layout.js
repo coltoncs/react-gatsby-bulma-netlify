@@ -5,9 +5,12 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from "gatsby"
+import { useSpring, animated, config } from 'react-spring'
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
+  const animate = useSpring({opacity: 1, transform: 'translate3d(0, 0rem, 0)', from: { opacity: 0, transform: 'translate3d(0, -15rem, 0)'}, config: config.stiff})
+
   return (
     <div>
       <Helmet>
@@ -46,7 +49,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:image" content={`${withPrefix("/")}img/og-image.jpg`} />
       </Helmet>
       <Navbar />
-      <div>{children}</div>
+      <animated.div style={animate}>{children}</animated.div>
       <Footer />
     </div>
   )
