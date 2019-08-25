@@ -4,6 +4,9 @@ node_modules
 .cache/
 # Build directory
 public/
-static/admin/*.bundle.*
+static/
 .DS_Store
 yarn-error.log
+
+src/**/*.md
+
