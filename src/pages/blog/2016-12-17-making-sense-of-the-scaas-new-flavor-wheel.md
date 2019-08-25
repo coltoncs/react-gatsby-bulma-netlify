@@ -1,19 +1,31 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-featuredpost: false
+title: Welcome to my New Website!
+date: 2016-12-25T02:05:10.000Z
+description: >-
+  Consider this a place for me to show off random trinkets and scripts that I
+  create, as well as progress in my professional life.
+featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor
   - tasting
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Hello there, thank you for visiting my website! I'm excited for the progress that will be made here as I further my knowledge of web development as a whole. For those of you who don't know who I am, my name is Colton Sweeney and I'm a student and intern working in Raleigh, NC.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## What the Hell Do I Do?
+
+I'm currently enrolled at the local Wake Technical Community College studying for an Associates in Web Development. I also work part-time at Progress Software where I work on the Core A Product Marketing Team. In fact, [here's a few](https://youtu.be/iKdiLrqNMTM?t=52) of my awesome co-workers and I from a few years ago! Core A consists of products such as Sitefinity (an enterprise .NET CMS) and Digital Experience Cloud, a cloud-serviced user experience management software for driving dynamic UX's. With the PMK team, I really don't have strictly documented responsibilities. Whenever someone needs help with something technical, I'm usually the one to help. Below are a few things I've done in my 3 years with Progress.
+
+* Update core product seller pages. This includes collecting articles from ContentGem, compiling reviews from TrustRadius, and updating events info in some cases.
+* Write blog posts and create infographics and whitepapers for Sitefinity & DEC products. Some blog posts that I've written for Sitefinity can be found [here](https://www.linkedin.com/in/colton-sweeney/detail/recent-activity/posts/).
+* Perform mundane spreadsheet and word processing tasks.
+* Work with colleagues around the globe on different projects, such as marketing campaigns and product content.
+* On one special occasion, I coded a custom Alexa chatbot experience that was used in a Partner trade show demonstration! 
+
+Of course I've done more in my time there, however those are just a few of the tasks I've taken on.
 
 ## What the updates mean to you
 
