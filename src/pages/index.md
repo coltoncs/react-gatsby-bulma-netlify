@@ -2,32 +2,29 @@
 templateKey: index-page
 title: Welcome to my World.
 image: /img/rasp-pi4.png
-heading: Coding with confidence
+heading: About me
 subheading: A personal portfolio site for my web dev journey
 mainpitch:
   title: Who Am I?
   description: >
-    Hi, my name is Colton Sweeney and I'm a 21-year-old web developer and graphic 
-    designer living in Raleigh, NC. In my free time, I love building and programming 
-    computers, working on my G35 Coupe, and snapping photos of my cat and various other 
-    things.
+    Hi, my name is Colton Sweeney and I'm a 21-year-old web developer and
+    graphic designer living in Raleigh, NC. 
 description: >-
-  Computers are my passion. For as long as I can remember I've held a personal connection 
-  computers. Whether it was playing with MS Paint when I was a toddler or fudging around 
-  with different image manipulation programs when I was middle school, I've always held a 
-  great fascination when it came to computers. Over the years, I've only grown my portfolio 
-  for what's possible when it comes to computers. Furthermore, my drive to learn more will 
-  grow.
+  Hello! I'm a full-time student working for a degree in Web Development, as
+  well as a part-time intern working at a local enterprise software company.
+  Things that make me tick include cars, cats, coffee, and most importantly --
+  computers.
 intro:
   blurbs:
     - image: /img/vs-code.PNG
       text: >
-        I can help with a variety of coding needs, whether you need a custom bot 
-        implemented with your Smart Home tech, or a full-serviced website with 
-        all the bells and whistles, I'd be happy to help. I have experience with 
-        languages such as Java, C#, Python and frameworks such as Django, Express, 
-        and ASP.NET. I love playing around in JavaScript libraries, as well. As a 
-        matter of fact, this website was built using React and Gatsby! 
+        I can help with a variety of coding needs, whether you need a custom
+        bot  implemented with your Smart Home tech, or a full-serviced website
+        with  all the bells and whistles, I'd be happy to help. I have
+        experience with  languages such as Java, C#, Python and frameworks such
+        as Django, Express,  and ASP.NET. I love playing around in JavaScript
+        libraries, as well. As a  matter of fact, this website was built using
+        React and Gatsby! 
     - image: /img/rasp-pi4.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -48,7 +45,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: What can I offer?
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
@@ -71,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
