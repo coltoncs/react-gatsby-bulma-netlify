@@ -6,12 +6,12 @@ description: >-
   Consider this a place for me to show off random trinkets and scripts that I
   create, as well as progress in my professional life.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/headshot_edit.png
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![it me!](/img/headshot_edit.png "Definitely not my LinkedIn profile picture")
 
 Hello there, thank you for visiting my website! I'm excited for the progress that will be made here as I further my knowledge of web development as a whole. For those of you who don't know who I am, my name is Colton Sweeney and I'm a student and intern working in Raleigh, NC.
 
@@ -25,21 +25,10 @@ I'm currently enrolled at the local Wake Technical Community College studying fo
 * Work with colleagues around the globe on different projects, such as marketing campaigns and product content.
 * On one special occasion, I coded a custom Alexa chatbot experience that was used in a Partner trade show demonstration! 
 
-Of course I've done more in my time there, however those are just a few of the tasks I've taken on.
+Of course I've done more in my time there, however those are just a few of the tasks I've taken on. I have a wide range of skills besides those when it comes to computers. For instance, I can:
 
-## What the updates mean to you
+* Utilize full Microsoft Office Suite for tools such as content management, smart spreadsheets, and more.
+* Work with Adobe Creative Cloud on wide range of programs for tasks such as image manipulation, color grading, vector manipulation, video effects and editing, UI & UX development, audio mixing & mastering, and more.
+* Experience with multiple IDEs such as Eclipse & Visual Studio, as well as Visual Studio Code.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+If you'd like to learn more about what I can do, feel free to read through my [services page](https://coltonsweeney.netlify.com/products).
