@@ -5,7 +5,7 @@ date: 2016-12-25T02:05:10.000Z
 description: >-
   Consider this a place for me to show off random trinkets and scripts that I
   create, as well as progress in my professional life.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
 tags:
   - flavor
