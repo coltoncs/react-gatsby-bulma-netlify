@@ -1,20 +1,16 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: About this website
 ---
 ### Built with React and Gatsby
+
 This website was built entirely using Gatsby, a static site generator for React. I have experience with a variety of different web frameworks, however React's
 seperation of components by functionality and breadth of features was what caught me. And with libraries such as react-spring, creating an animated UI is both quick and easily-extendable. It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.
 
 ### Hosted on and powered by Netlify
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Styled with Bulma 
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+I chose Netlify as hosting for this project for their unique approach and architecture that was perform for my React app. Using GitHub for hosting, I can push changes to development instantly with local commits. Furthermore, Netlify CMS provides an integrated content management experience that's simple, yet powerful. Content for the site is pulled in entirely from local markdown files, providing me with the ability to focus on the user interface as opposed to content when developing. 
 
-### Open-sourced
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Styled with Bulma
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+All the SCSS styling for the website is done using the Bulma CSS framework. When nearly every website is built using Bootstrap, it's refreshing to see a different mix of styles. Bulma provides an interesting, yet effective approach for it's framework, allowing you to selectively load different components for your pages in one SASS file. It's ability to easily customize and extend the base styles for components also proved to be a major deciding factor.
