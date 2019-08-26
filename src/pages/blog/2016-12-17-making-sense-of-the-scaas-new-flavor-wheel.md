@@ -6,12 +6,12 @@ description: >-
   Consider this a place for me to show off random trinkets and scripts that I
   create, as well as progress in my professional life.
 featuredpost: false
-featuredimage: /img/headshot_edit.png
+featuredimage: /img/dsc_1570.jpg
 tags:
   - flavor
   - tasting
 ---
-![it me!](/img/headshot_edit.png "Definitely not my LinkedIn profile picture")
+![it me!](/img/dsc_1570.jpg "Definitely not my LinkedIn profile picture")
 
 Hello there, thank you for visiting my website! I'm excited for the progress that will be made here as I further my knowledge of web development as a whole. For those of you who don't know who I am, my name is Colton Sweeney and I'm a student and intern working in Raleigh, NC.
 
