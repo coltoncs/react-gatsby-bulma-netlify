@@ -1,29 +1,25 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Services
+templateKey: product-page
+title: Portfolio
 image: /img/chemex.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: Some of my projects
+description: 'Feel free to take a look through some of my projects. '
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/adobestock_180105378.jpeg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        I'm experienced with a wide range of programming tasks, such as data
+        collection, data analysis, web scraping, server-side programming,
+        databases, and much more. Feel free to take a look through my GitHub for
+        an in-depth look at my projects.
+    - image: /img/adobestock_239867958.jpeg
+      text: >-
+        I'm experienced with computer hardware and building systems, as well.
+        I've built a number of computers aimed at a variety of tasks, such as
+        gaming, productivity, audio/video production and editing, data
+        collections, and more. I've even built and configured Raspberry Pi
+        boards for tasks such as DNS sinkholes, media servers, and everyday
+        computers.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -99,3 +95,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
