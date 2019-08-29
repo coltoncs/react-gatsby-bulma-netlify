@@ -14,3 +14,7 @@ I chose Netlify as hosting for this project for their unique approach and archit
 ### Styled with Bulma
 
 All the SCSS styling for the website is done using the Bulma CSS framework. When nearly every website is built using Bootstrap, it's refreshing to see a different mix of styles. Bulma provides an interesting, yet effective approach for it's framework, allowing you to selectively load different components for your pages in one SASS file. It's ability to easily customize and extend the base styles for components also proved to be a major deciding factor.
+
+## Database Who?
+
+This website interfaces all of it's data directly from GraphQL, the data query language. While not ideal for larger, more dynamic projects, this works just perfectly for my use case. I currently use GraphQL to do things such as programmatically creating pages at build-time! Each of my blog pages (and content like the text you're reading now!) is created using Markdown files located locally. At build-time, Gatsby is configured to grab this static data and load it into GraphQL queries. Using GraphQL in this manner is great for visualizing data flow, as well as managing content at a small scale!
