@@ -26,11 +26,13 @@ intro:
         libraries, as well. As a  matter of fact, this website was built using
         React and Gatsby! 
     - image: /img/rasp-pi4.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        I'm also experienced with the hardware side of computers. I have
+        experience building powerful desktops and small form IoT boards for a
+        variety of tasks. For desktops, I can create builds ranging in size and
+        complexity. Whether you're looking for a water-cooled workstation that
+        can fit in your backpack or a personal browsing machine or media server
+        that can fit in your hand, I can build and program them.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
