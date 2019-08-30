@@ -17,36 +17,30 @@ description: >-
 intro:
   blurbs:
     - image: /img/vs-code.PNG
-      text: >
-        I can help with a variety of coding needs, whether you need a custom
-        bot  implemented with your Smart Home tech, or a full-serviced website
-        with  all the bells and whistles, I'd be happy to help. I have
-        experience with  languages such as Java, C#, Python and frameworks such
-        as Django, Express,  and ASP.NET. I love playing around in JavaScript
-        libraries, as well. As a  matter of fact, this website was built using
-        React and Gatsby! 
-    - image: /img/rasp-pi4.png
       text: >-
-        I'm also experienced with the hardware side of computers. I have
-        experience building powerful desktops and small form IoT boards for a
-        variety of tasks. For desktops, I can create builds ranging in size and
-        complexity. Whether you're looking for a water-cooled workstation that
-        can fit in your backpack or a personal browsing machine or media server
-        that can fit in your hand, I can build and program them.
-    - image: /img/tutorials.png
+        I'm a 21-year-old web developer living in Apex, North Carolina. In my
+        free time, I enjoy working out, practicing photography, playing video
+        games, learning new tech, and more. Head over to my blog page to see
+        what else I'm passionate about!
+    - image: /img/vs-code.PNG
+      text: >-
+        I've been interested in software and web development for a number of
+        years. In my beginner period, I learned how to program with websites
+        like Udemy and Code Academy, while following practical tutorials to get
+        hands-on experience. 
+    - image: /img/vs-code.PNG
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        I currently work at Progress Software as a Product Marketing Intern.
+        Here I've worked for the past three years on a variety of projects, such
+        as revamping our sales briefing material for mobile consumption,
+        drafting and publishing a number of blog posts and other technical
+        articles on our Sitefinity product, and much more.
+    - image: /img/vs-code.PNG
+      text: >-
+        I'm currently enrolled at Wake Technical Community College studying for
+        an Associates in Web Development. Here, I'm taking courses such as
+        Information Systems Business Concepts, Internet/Web Fundamentals,
+        Networking/Security Foundation, and Web Development Tools.
   heading: What can I offer?
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -61,13 +55,13 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: The workstation
+    image: /img/adobestock_239867958.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Working hard on cat memes
+    image: /img/adobestock_180105378.jpeg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: PCB
+    image: /img/adobestock_132531868.jpeg
 ---
 
