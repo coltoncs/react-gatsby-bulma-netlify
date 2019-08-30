@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: Welcome to my New Website!
+title: Welcome to my Website!
 date: 2016-12-25T02:05:10.000Z
 description: >-
-  Consider this a place for me to show off random trinkets and scripts that I
-  create, as well as progress in my professional life.
+  This will be a place for me to learn web development as well as show off my
+  professional progress.
 featuredpost: false
 featuredimage: /img/dsc_1570.jpg
 tags:
@@ -13,9 +13,9 @@ tags:
 ---
 ![it me!](/img/dsc_1570.jpg "Definitely not my LinkedIn profile picture")
 
-Hello there, thank you for visiting my website! I'm excited for the progress that will be made here as I further my knowledge of web development as a whole. For those of you who don't know who I am, my name is Colton Sweeney and I'm a student and intern working in Raleigh, NC.
+Hi, thank you for visiting my website! Content is still being developed here, so stick with me while I keep updating it all.
 
-## What the Hell Do I Do?
+## What Do I Do?
 
 I'm currently enrolled at the local Wake Technical Community College studying for an Associates in Web Development. I also work part-time at Progress Software where I work on the Core A Product Marketing Team. In fact, [here's a few](https://youtu.be/iKdiLrqNMTM?t=52) of my awesome co-workers and I from a few years ago! Core A consists of products such as Sitefinity (an enterprise .NET CMS) and Digital Experience Cloud, a cloud-serviced user experience management software for driving dynamic UX's. With the PMK team, I really don't have strictly documented responsibilities. Whenever someone needs help with something technical, I'm usually the one to help. Below are a few things I've done in my 3 years with Progress.
 
