@@ -1,34 +1,25 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-featuredpost: true
+templateKey: blog-post
+title: 'Sitefinity How-To: Customizing Navigation'
+date: 2017-10-16T14:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Recently, while researching the differences between personalization vs.
+  customization and its impact on websites, I was inspired to find ways to
+  customize the Sitefinity CMS for users.
+featuredpost: true
+featuredimage: /img/1.jpg
 tags:
   - jamaica
   - green beans
   - flavor
   - tasting
 ---
+I spent the next week doing daily searches on Google and in Sitefinity’s own documentation to discover the ways in which developers and admins can customize their experience. At the end of the week, I had compiled four comprehensive step-by-step documents on how to customize various aspects of the CMS such as customizing navigation menus, forms, text boxes, and even widget templates. Sitefinity’s backend allows for hundreds more customization options than what’s offered out-of-the-box, so I encourage users to read through the documentation to unlock the full potential of the CMS.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+## Customizing Navigation
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Sitefinity provides great navigation features out-of-the-box, but users of Sitefinity can easily customize their navigation menus with custom page fields. A feature as of Sitefinity 7.0, custom page fields allow for user-defined pieces of information to be added to sites. The process is very simple and requires no coding experience at all—admin access to the Sitefinity CMS backend is all that’s required.
 
-## A little history
+![Tutorial Step 1](/img/0.jpg "Tutorial Step 1")
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+To get started, navigate to the Sitefinity backend and select the Pages option from the main menu as shown above...
