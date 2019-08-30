@@ -1,17 +1,19 @@
 ---
 templateKey: portfolio-page
 title: Sitefinity How-To
-type: Tutorial Series
-date: 2019-8-27T02:05:10.000Z
+type: Tutorials
+date: 2019-08-27T02:05:10.000Z
 description: >-
-  A brief whitepaper I created for Sitefinity to outline the need for an engaging customer experience.
-featuredpost: false
-featuredimage: /img/dsc_1570.jpg
+  A series of tutorials that I created for Sitefinity CMS users on a variety of
+  technical tasks.
+featuredpost: true
+featuredimage: /img/sitefinityhowto.png
 tags:
-  - whitepaper
+  - how-to
+  - tutorial
   - sitefinity
+  - ''
 ---
-![Whitepaper Image](/img/dsc_1570.jpg "Customer Experience is the New Business Battleground")
+![Whitepaper Image](/img/sitefinityhowto.png "Sitefinity: How to Customize Widget Templates")
 
-In my early days at Progress, I was frequently tasked with creating whitepapers and other technical documents for our Sitefinity product. This was one of many whitepapers that I published titled "Customer Experience is the New Business Battleground." The whitepaper itself is an interesting read and provides some interesting insight into the state of customer experience when it comes to content management.
-
+After my original app development project at Progress came to an end, I was tasked with a series of different projects that focused more on Marketing efforts for the Sitefinity CMS product. Of these projects, was one in which I created and published a three-part How-To series for Sitefinity.
