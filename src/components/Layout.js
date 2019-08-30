@@ -11,7 +11,7 @@ const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   const animate = useSpring({
     to: [{opacity: 1, transform: 'translate3d(0, 0rem, 0)'}], 
-    from: { opacity: 0, transform: 'translate3d(0, -15rem, 0)'}, config: config.slow
+    from: { opacity: 0, transform: 'translate3d(0, -20rem, 0)'}, config: config.slow
   })
 
   return (

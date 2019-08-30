@@ -32,7 +32,13 @@ class Projects extends React.Component {
                     </div>
                   ) : null}
                   <p className="post-meta">
-                    <span><h1>{pane.frontmatter.title}</h1><h4><small>{pane.frontmatter.type}</small></h4></span>  
+                    <Link
+                      className="title has-text-primary is-size-4"
+                      to={pane.fields.slug}
+                    >
+                      {pane.frontmatter.title}
+                    </Link>
+                    <h4 className="is-4">{pane.frontmatter.type}</h4>  
                     <span className="subtitle is-size-5 is-block">
                       {pane.frontmatter.date}
                     </span>

@@ -3,7 +3,7 @@ templateKey: index-page
 title: Welcome to my World.
 image: /img/rasp-pi4.png
 heading: About me
-subheading: A personal portfolio site for my web dev journey
+subheading: My personal portfolio site
 mainpitch:
   title: Who Am I?
   description: >

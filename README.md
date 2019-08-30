@@ -1,29 +1,34 @@
-# Gatsby + Netlify CMS Starter
-## Portfolio Website
+# Colton Sweeney's Portfolio Site
+## Built off Netlify's Gatsby template
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cafeb145-c4cf-44d1-b7f4-221d438cacc6/deploy-status)](https://app.netlify.com/sites/coltonsweeney/deploys)
 
 **Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
-This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
+This repo contains a personal portfolio website that is built with [Gatsby](https://www.gatsbyjs.org/), [Netlify CMS](https://www.netlifycms.org), and [Bulma](https://bulma.io/): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
 
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
 
 ## Features ##
 
-- A simple landing page with blog functionality built with Netlify CMS
-- Editabe Pages: Landing, About, Product, Blog-Collection and Contact page with Netlify Form support
-- Create Blog posts from Netlify CMS
+- A landing page with an introduction and blog content
+- Fully editable pages via the Netlify CMS: Landing, About, Portfolio, Blog, and Contact
+- Create Blog posts from Netlify CMS backend
 - Tags: Separate page for posts under each tag
-- Basic directory organization
 - Uses Bulma for styling, but size is reduced by `purge-css-plugin`
 - Blazing fast loading times thanks to pre-rendered HTML and automatic chunk loading of JS files
+- Implements react-spring for page and component transitions
 - Uses `gatbsy-image` with Netlify-CMS preview support
 - Separate components for everything
 - Netlify deploy configuration
-- Netlify function support, see `src/lambda` folder
-- Perfect score on Lighthouse for SEO, Accessibility and Performance (wip:PWA)
+- Netlify function support
 - ..and more
+
+## Future Plans ##
+
+- Integrate with Git LFS in order to remove static asset storage and speed up build times
+- Optimize (and minimize) transitions as they currently occur on each load of the Layout component
+- Update content
 
 ## Prerequisites
 
@@ -40,8 +45,8 @@ After clicking that button, you’ll authenticate with GitHub and choose a repos
 
 ### Access Locally
 ```
-$ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
-$ cd [REPO_NAME]
+$ git clone https://github.com/pizdetz/react-gatsby-bulma-netlify.git
+$ cd react-gatsby-bulma-netlify
 $ yarn
 $ npm run start
 ```
@@ -49,29 +54,6 @@ To test the CMS locally, you'll need run a production build of the site:
 ```
 $ npm run build
 $ npm run serve
-```
-
-### Media Libraries (installed, but optional)
-
-Media Libraries have been included in this starter as a default. If you are not planning to use `Uploadcare` or `Cloudinary` in your project, you **can** remove them from module import and registration in `src/cms/cms.js`. Here is an example of the lines to comment or remove them your project.
-```javascript
-import CMS from 'netlify-cms-app'
-// import uploadcare from 'netlify-cms-media-library-uploadcare'
-// import cloudinary from 'netlify-cms-media-library-cloudinary'
-
-import AboutPagePreview from './preview-templates/AboutPagePreview'
-import BlogPostPreview from './preview-templates/BlogPostPreview'
-import ProductPagePreview from './preview-templates/ProductPagePreview'
-import IndexPagePreview from './preview-templates/IndexPagePreview'
-
-// CMS.registerMediaLibrary(uploadcare);
-// CMS.registerMediaLibrary(cloudinary);
-
-CMS.registerPreviewTemplate('index', IndexPagePreview)
-CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('products', ProductPagePreview)
-CMS.registerPreviewTemplate('blog', BlogPostPreview)
-
 ```
 
 ## Getting Started (Without Netlify)
