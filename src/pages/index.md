@@ -11,9 +11,7 @@ mainpitch:
     graphic designer living in Raleigh, NC. 
 description: >-
   Hello! I'm a full-time student working for a degree in Web Development, as
-  well as a part-time intern working at a local enterprise software company.
-  Things that make me tick include cars, cats, coffee, and most importantly --
-  computers.
+  well as a part-time intern working at a local enterprise software company. 
 intro:
   blurbs:
     - image: /img/vs-code.PNG
