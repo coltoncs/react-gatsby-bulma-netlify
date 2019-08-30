@@ -4,8 +4,7 @@ title: About this website
 ---
 ### Built with React and Gatsby
 
-This website was built entirely using Gatsby, a static site generator for React. I have experience with a variety of different web frameworks, however React's
-seperation of components by functionality and breadth of features was what caught me. And with libraries such as react-spring, creating an animated UI is both quick and easily-extendable. It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.
+This website was built entirely using Gatsby, a static site generator for React. It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.
 
 ### Hosted on and powered by Netlify
 
