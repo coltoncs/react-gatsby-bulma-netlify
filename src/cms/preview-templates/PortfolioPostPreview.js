@@ -1,9 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { PortfolioPostTemplate } from '../../templates/portfolio-page'
+import { PortfolioPageTemplate } from '../../templates/portfolio-page'
 
 const PortfolioPostPreview = ({ entry, widgetFor }) => (
-  <PortfolioPostTemplate
+  <PortfolioPageTemplate
     content={widgetFor('body')}
     description={entry.getIn(['data', 'description'])}
     tags={entry.getIn(['data', 'tags'])}

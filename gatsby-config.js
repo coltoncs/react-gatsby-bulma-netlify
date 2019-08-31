@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'hello, world!',
+    title: 'colton sweeney',
     description:
-      'This portfolio website was built with React+Gatsby, Bulma, and Netlify.',
+      'This JAMstack portfolio was built with React+Gatsby, Bulma, and Netlify.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
