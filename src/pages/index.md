@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Welcome to my World.
+title: Colton Sweeney's
 image: /img/rasp-pi4.png
 heading: About me
-subheading: My personal portfolio site
+subheading: portfolio & practice site
 mainpitch:
   title: Who Am I?
   description: >
