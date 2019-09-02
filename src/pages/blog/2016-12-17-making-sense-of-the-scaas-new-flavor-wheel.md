@@ -8,8 +8,9 @@ description: >-
 featuredpost: false
 featuredimage: /img/dsc_1570.jpg
 tags:
-  - flavor
-  - tasting
+  - about
+  - biography
+  - introduction
 ---
 ![it me!](/img/dsc_1570.jpg "Definitely not my LinkedIn profile picture")
 
@@ -17,11 +18,10 @@ Hi, thank you for visiting my website! Content is still being developed here, so
 
 ## What Do I Do?
 
-I'm currently enrolled at the local Wake Technical Community College studying for an Associates in Web Development. I also work part-time at Progress Software where I work on the Core A Product Marketing Team. In fact, [here's a few](https://youtu.be/iKdiLrqNMTM?t=52) of my awesome co-workers and I from a few years ago! Core A consists of products such as Sitefinity (an enterprise .NET CMS) and Digital Experience Cloud, a cloud-serviced user experience management software for driving dynamic UX's. With the PMK team, I really don't have strictly documented responsibilities. Whenever someone needs help with something technical, I'm usually the one to help. Below are a few things I've done in my 3 years with Progress.
+I'm currently enrolled at the local Wake Technical Community College studying for an Associates in Web Development. I also work part-time at Progress Software where I work on the Core A Product Marketing Team. Core A consists of products such as Sitefinity CMS and Digital Experience Cloud, OpenEdge IDE, and more. With the PMK team, I really don't have strictly documented responsibilities. Whenever someone needs help with something technical, I'm usually the one to help. Below are a few things I've done in my 3 years with Progress.
 
 * Update core product seller pages. This includes collecting articles from ContentGem, compiling reviews from TrustRadius, and updating events info in some cases.
 * Write blog posts and create infographics and whitepapers for Sitefinity & DEC products. Some blog posts that I've written for Sitefinity can be found [here](https://www.linkedin.com/in/colton-sweeney/detail/recent-activity/posts/).
-* Perform mundane spreadsheet and word processing tasks.
 * Work with colleagues around the globe on different projects, such as marketing campaigns and product content.
 * On one special occasion, I coded a custom Alexa chatbot experience that was used in a Partner trade show demonstration! 
 
@@ -29,6 +29,5 @@ Of course I've done more in my time there, however those are just a few of the t
 
 * Utilize full Microsoft Office Suite for tools such as content management, smart spreadsheets, and more.
 * Work with Adobe Creative Cloud on wide range of programs for tasks such as image manipulation, color grading, vector manipulation, video effects and editing, UI & UX development, audio mixing & mastering, and more.
-* Experience with multiple IDEs such as Eclipse & Visual Studio, as well as Visual Studio Code.
 
-If you'd like to learn more about what I can do, feel free to read through my [services page](https://coltonsweeney.netlify.com/products).
+If you'd like to learn more about what I can do, feel free to read through my [portfolio page](https://coltonsweeney.netlify.com/products).
