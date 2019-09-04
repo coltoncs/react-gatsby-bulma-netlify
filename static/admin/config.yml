@@ -9,7 +9,7 @@ backend:
 media_folder: static/img
 public_folder: /img
 
-site_url: https://coltonsweeney.netlify.com
+site_url: https://coltonsweeney.com
 
 collections:
   - name: "blog"

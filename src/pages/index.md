@@ -54,10 +54,10 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: The workstation
-    image: /img/adobestock_239867958.jpeg
+    image: /img/blog_image.jpeg
   image2:
     alt: Working hard on cat memes
-    image: /img/adobestock_180105378.jpeg
+    image: /img/blog_image.jpeg
   image3:
     alt: PCB
     image: /img/adobestock_132531868.jpeg
