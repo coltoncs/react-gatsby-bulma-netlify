@@ -1,19 +1,39 @@
+//Modules
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
-import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from "gatsby"
 import { useSpring, animated, config } from 'react-spring'
 
+//Styles and logos
+import './all.sass'
+
+/**
+ * Class:        Layout.js
+ * 
+ * Component:    TemplateWrapper
+ * 
+ * Props:        children
+ * 
+ * Properties:   title: (string) The title metadata for the site
+ *               description: (string) the description metadata for the site
+ *               animate: (useSpring) the react-spring animation for fading in and up
+ * 
+ * Return:       The view component boostrapped with Helmet, the navbar, the content, 
+ *               and the footer
+ */
+
 const TemplateWrapper = ({ children }) => {
+  //Grab data from GraphQL and setup animations
   const { title, description } = useSiteMetadata()
   const animate = useSpring({
     to: [{opacity: 1, transform: 'translate3d(0, 0rem, 0)'}], 
     from: { opacity: 0, transform: 'translate3d(0, -15rem, 0)'}, config: config.slow
   })
 
+  //Return the view populated with MD data and Spring animations
   return (
     <div>
       <Helmet>

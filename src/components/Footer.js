@@ -1,14 +1,19 @@
+//Modules
 import React from 'react'
 import { Link } from 'gatsby'
 import { useSpring, animated, config } from 'react-spring'
 
+//Styles & logos
 import logo from '../img/cs-logo.svg'
 import twitter from '../img/social/twitter.svg'
 import linkedin from '../img/social/linkedin.svg'
 import github from '../img/github-icon.svg'
 
 const Footer = () => {
+  //Create footer animation with slide up and fade in
   const animation = useSpring({opacity: 1, transform: 'translate3d(0,0rem,0)', from: {opacity:0, transform: 'translate3d(0, 20rem, 0)'}, config: config.molasses})
+  
+  //Return the footer view with the animation applied to the parent
   return (
     <animated.footer style={animation} className="footer has-background-black has-text-white-ter">
       <div className="content has-text-centered">

@@ -1,10 +1,13 @@
+//Modules
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 class Projects extends React.Component {
+
   render() {
+    //Grab projects data from markdown and place into individual 'panes'
     const { data } = this.props
     const { edges: panes } = data.allMarkdownRemark
 
@@ -60,6 +63,7 @@ class Projects extends React.Component {
   }
 }
 
+//Defines data proptypes for the Projects component
 Projects.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
@@ -68,6 +72,7 @@ Projects.propTypes = {
   }),
 }
 
+//Export the Projects component as a GraphQL StaticQuery for grabbing data
 export default () => (
   <StaticQuery
     query={graphql`
