@@ -14,7 +14,7 @@ description: >-
   well as a part-time intern working at a local enterprise software company. 
 intro:
   blurbs:
-    - image: /img/vs-code.PNG
+    - image: /img/annabelle.jpg
       text: >-
         I'm a 21-year-old web developer living in Apex, North Carolina. In my
         free time, I enjoy working out, practicing photography, playing video
@@ -26,14 +26,14 @@ intro:
         years. In my beginner period, I learned how to program with websites
         like Udemy and Code Academy, while following practical tutorials to get
         hands-on experience. 
-    - image: /img/vs-code.PNG
+    - image: /img/headshot.jpg
       text: >
         I currently work at Progress Software as a Product Marketing Intern.
         Here I've worked for the past three years on a variety of projects, such
         as revamping our sales briefing material for mobile consumption,
         drafting and publishing a number of blog posts and other technical
         articles on our Sitefinity product, and much more.
-    - image: /img/vs-code.PNG
+    - image: /img/0-1-.jpg
       text: >-
         I'm currently enrolled at Wake Technical Community College studying for
         an Associates in Web Development. Here, I'm taking courses such as
