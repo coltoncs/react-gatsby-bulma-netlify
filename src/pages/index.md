@@ -33,7 +33,7 @@ intro:
         as revamping our sales briefing material for mobile consumption,
         drafting and publishing a number of blog posts and other technical
         articles on our Sitefinity product, and much more.
-    - image: /img/0-1-.jpg
+    - image: /img/adobestock_132531868.jpeg
       text: >-
         I'm currently enrolled at Wake Technical Community College studying for
         an Associates in Web Development. Here, I'm taking courses such as
