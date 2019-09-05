@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Colton Sweeney's
-image: /img/rasp-pi4.png
+image: /img/rasp-pi4.jpg
 heading: About me
 subheading: portfolio & practice site
 mainpitch:
