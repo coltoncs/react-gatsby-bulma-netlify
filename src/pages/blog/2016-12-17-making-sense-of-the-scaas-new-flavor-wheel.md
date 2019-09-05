@@ -16,6 +16,10 @@ tags:
 
 Hi, thank you for visiting my website! Content is still being developed here, so stick with me while I keep updating it all.
 
+# Disclaimer:
+
+This website is still very much under development and should be considered a work in progress! Contrary to what my blog and portfolios state as their post date, I started on this website in the end of August 2019 and deployed the website about a week later. Since then, I've been making changes to content and layout whenever I have extra free time. There's a list of things that I plan to change about this website and make it a little more personal, but at the time of this writing (September 5, 2019) this website is still "under construction!"
+
 ## What Do I Do?
 
 I'm currently enrolled at the local Wake Technical Community College studying for an Associates in Web Development. I also work part-time at Progress Software where I work on the Core A Product Marketing Team. Core A consists of products such as Sitefinity CMS and Digital Experience Cloud, OpenEdge IDE, and more. With the PMK team, I really don't have strictly documented responsibilities. Whenever someone needs help with something technical, I'm usually the one to help. Below are a few things I've done in my 3 years with Progress.
