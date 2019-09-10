@@ -29,8 +29,8 @@ const TemplateWrapper = ({ children }) => {
   //Grab data from GraphQL and setup animations
   const { title, description } = useSiteMetadata()
   const animate = useSpring({
-    to: [{ opacity: 1, transform: 'translate3d(0, 0rem, 0)' }],
-    from: { opacity: 0, transform: 'translate3d(0, -15rem, 0)' }, config: config.slow
+    to: [{opacity: 1, transform: 'translate3d(0, 0rem, 0)'}], 
+    from: { opacity: 0, transform: 'translate3d(0, -15rem, 0)'}, config: config.slow
   })
 
   //Return the view populated with MD data and Spring animations
