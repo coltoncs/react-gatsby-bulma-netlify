@@ -6,7 +6,7 @@ description: >-
   Recently, while researching the differences between personalization vs.
   customization and its impact on websites, I was inspired to find ways to
   customize the Sitefinity CMS for users.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/1.jpg
 tags:
   - jamaica

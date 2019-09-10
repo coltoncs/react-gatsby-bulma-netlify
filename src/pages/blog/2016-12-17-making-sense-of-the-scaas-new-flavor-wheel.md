@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: Welcome to my Website!
-date: 2016-12-25T02:05:10.000Z
+date: 2019-09-02T01:05:10.000Z
 description: >-
   This will be a place for me to learn web development as well as show off my
   professional progress.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/dsc_1570.jpg
 tags:
   - about
@@ -15,6 +15,10 @@ tags:
 ![it me!](/img/dsc_1570.jpg "Definitely not my LinkedIn profile picture")
 
 Hi, thank you for visiting my website! Content is still being developed here, so stick with me while I keep updating it all.
+
+# Disclaimer:
+
+This website is still very much under development and should be considered a work in progress! Contrary to what my blog and portfolios state as their post date, I started on this website in the end of August 2019 and deployed the website about a week later. Since then, I've been making changes to content and layout whenever I have extra free time. There's a list of things that I plan to change about this website and make it a little more personal, but at the time of this writing (September 5, 2019) this website is still "under construction!"
 
 ## What Do I Do?
 
