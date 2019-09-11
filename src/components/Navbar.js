@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/cs-logo.svg'
+import { OutboundLink } from 'gatsby-plugin-google-analytics'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -74,7 +75,7 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <a
+              <OutboundLink
                 className="navbar-item"
                 href="https://github.com/pizdetz"
                 target="_blank"
@@ -83,7 +84,7 @@ const Navbar = class extends React.Component {
                 <span className="icon">
                   <img src={github} alt="Github" />
                 </span>
-              </a>
+              </OutboundLink>
             </div>
           </div>
         </div>
