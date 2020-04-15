@@ -7,7 +7,7 @@ subheading: portfolio & practice site
 mainpitch:
   title: Who Am I?
   description: >
-    Hi, my name is Colton Sweeney and I'm a 21-year-old web developer and
+    Hi, my name is Colton Sweeney and I'm a 22-year-old web developer and
     graphic designer living in Raleigh, NC. 
 description: >-
   Hello! I'm a full-time student working for a degree in Web Development, as
@@ -37,8 +37,8 @@ intro:
       text: >-
         I'm currently enrolled at Wake Technical Community College studying for
         an Associates in Web Development. Here, I'm taking courses such as
-        Information Systems Business Concepts, Internet/Web Fundamentals,
-        Networking/Security Foundation, and Web Development Tools.
+        Database Concepts, Advanced Markup and Scripting,
+        Networking/Security Foundation, and more.
   heading: What can I offer?
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
