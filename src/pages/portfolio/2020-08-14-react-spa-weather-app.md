@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: portfolio-page
 title: React SPA Weather App
 type: Website
 date: 2020-08-14T17:04:43.817Z
