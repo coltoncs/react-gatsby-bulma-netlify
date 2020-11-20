@@ -5,7 +5,7 @@ date: 2019-09-02T01:05:10.000Z
 description: >-
   This will be a place for me to learn web development as well as show off my
   professional progress.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dsc_1570.jpg
 tags:
   - about
