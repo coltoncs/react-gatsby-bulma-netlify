@@ -9,7 +9,7 @@ description: >-
   and did not offer a good design or experience. I took it upon myself to
   redesign and reimagine the client experience, and two weeks later I had
   rebuilt the website from the ground up at a cost of only $12 annually.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/mrp.png
 tags:
   - web development
