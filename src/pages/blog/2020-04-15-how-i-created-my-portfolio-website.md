@@ -6,7 +6,7 @@ description: >-
   What exactly goes into the development and upkeep of a personal portfolio
   site? In this brief post I'll be outlining the creation of this portfolio
   website and my process for developing.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/coltonsweeney-portfolio-site.png
 tags:
   - self post
