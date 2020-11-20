@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: portfolio-page
 title: Market Ready Painting NC
 type: Website
 date: 2020-11-20T20:48:27.233Z
