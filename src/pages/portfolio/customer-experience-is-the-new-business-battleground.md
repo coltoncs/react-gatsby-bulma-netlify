@@ -2,11 +2,12 @@
 templateKey: portfolio-page
 title: Customer Experience is the New Business Battleground
 type: Whitepaper
-date: 2019-8-25T02:05:10.000Z
+date: 2019-08-25T02:05:10.000Z
 description: >-
-  A brief whitepaper I created for Sitefinity to outline the need for an engaging customer experience.
+  A brief whitepaper I created for Sitefinity to outline the need for an
+  engaging customer experience.
 featuredpost: false
-featuredimage: /img/dsc_1570.jpg
+featuredimage: /img/cenbbg.png
 tags:
   - whitepaper
   - sitefinity
