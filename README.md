@@ -1,11 +1,10 @@
 # Colton Sweeney's Portfolio Site
-## Built off Netlify's Gatsby template
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cafeb145-c4cf-44d1-b7f4-221d438cacc6/deploy-status)](https://app.netlify.com/sites/coltonsweeney/deploys)
 
 **Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
-This repo contains a personal portfolio website that is built with [Gatsby](https://www.gatsbyjs.org/), [Netlify CMS](https://www.netlifycms.org), and [Bulma](https://bulma.io/): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
+This repo contains my personal portfolio website that is built with [Gatsby](https://www.gatsbyjs.org/), [Netlify CMS](https://www.netlifycms.org), and [Bulma](https://bulma.io/)
 
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
 
@@ -23,12 +22,6 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 - Netlify deploy configuration
 - Netlify function support
 - ..and more
-
-## Future Plans ##
-
-- Integrate with Git LFS in order to remove static asset storage and speed up build times
-- Optimize (and minimize) transitions as they currently occur on each load of the Layout component
-- Update content
 
 ## Prerequisites
 
