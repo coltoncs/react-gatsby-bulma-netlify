@@ -1,19 +1,53 @@
 ---
 templateKey: about-page
-title: About this website
+title: Welcome to my digital playground
 ---
-### Built with React and Gatsby
+I built this website as a way to give myself hands-on learning with web development, while also learning the barebones in school and working towards my degree. Everything on this website was put together by myself in my spare time outside of learning at Wake Tech and working at Progress Software.
 
-This website was built entirely using Gatsby, a static site generator for React. It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.
+_This website was built with React under the Gatsby framework. It is hosted on Netlify and uses Netlify's CMS for content management. For more information, be sure to read my blog post on the creation and maintenance of this site._
 
-### Hosted on and powered by Netlify
 
-I chose Netlify as hosting for this project for their unique approach and architecture that was perform for my React app. Using GitHub for hosting, I can push changes to development instantly with local commits. Furthermore, Netlify CMS provides an integrated content management experience that's simple, yet powerful. Content for the site is pulled in entirely from local markdown files, providing me with the ability to focus on the user interface as opposed to content when developing. 
 
-### Styled with Bulma
+## A brief introduction
 
-All the SCSS styling for the website is done using the Bulma CSS framework. When nearly every website is built using Bootstrap, it's refreshing to see a different mix of styles. Bulma provides an interesting, yet effective approach for it's framework, allowing you to selectively load different components for your pages in one SASS file. It's ability to easily customize and extend the base styles for components also proved to be a major deciding factor.
+My name is Colton Sweeney, and I enjoy many things; among them is web development. 
 
-## Database Who?
 
-This website interfaces all of it's data directly from GraphQL, the data query language. While not ideal for larger, more dynamic projects, this works just perfectly for my use case. I currently use GraphQL to do things such as programmatically creating pages at build-time! Each of my blog pages (and content like the text you're reading now!) is created using Markdown files located locally. At build-time, Gatsby is configured to grab this static data and load it into GraphQL queries. Using GraphQL in this manner is great for visualizing data flow, as well as managing content at a small scale!
+
+From a very young age, I've had an affinity for computers and how they work. At 5 years old I was playing around with simple image editors to create pictures. When I was 10 I began learning audio and video production with tools such as Ableton Live Studio and Adobe AfterEffects. By the time I was 16, I was dabbling in the world of novice programming and creating one-off scripts with Python and scraping web pages. 
+
+
+
+This attraction evolved until I was 18 and working my first job outside of high school as a Product Marketing Intern at Progress Software. Here, I was given the opportunity to experiment with more advanced technologies and soon learned became enthralled with the world of web development. I switched my Computer Engineering degree to a Web Developer degree (albeit a bit late in the process) and haven't looked back since.
+
+
+
+## What is my technological background?
+
+As evidenced in the previous section, I have a wide range of experience when it comes to technology. I have over a decade of experience with image manipulation software such as Adobe Photoshop, some minor experience with audio and music production with software such as Ableton Live and FL Studio, and extensive experience with programming technologies. For a non-exhaustive listing:
+
+_Programs_
+
+* Adobe Photoshop CC
+* Adobe AfterEffects CC
+* Adobe Premiere CC
+* Adobe Illustrator CC
+* Adobe Dreamweaver CC
+* Ableton Live
+* FL Studio
+* Visual Studio (Community and Code)
+* Postman
+* Git Bash
+* Microsoft Office 365
+* Salesforce
+
+_Technologies_
+
+* Node.js
+* Python & Django
+* Express.js
+* React.js
+* Vue.js
+* AWS Suite
+* Heroku
+* Netlify
