@@ -6,7 +6,7 @@ date: 2019-08-27T02:05:10.000Z
 description: >-
   A series of tutorials that I created for Sitefinity CMS users on a variety of
   technical tasks.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/sitefinityhowto.png
 tags:
   - how-to
