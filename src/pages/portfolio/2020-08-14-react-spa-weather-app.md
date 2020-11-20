@@ -7,7 +7,7 @@ description: >-
   This is a small, single page React application that I built using
   create-react-app. It is very lightweight, existing as a client-side React app
   that's deployed to a Heroku instance. 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/featured-weather.png
 tags:
   - react
