@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Colton Sweeney's
+title: Welcome to my digital playground
 image: /img/rasp-pi4.jpg
 heading: About me
-subheading: portfolio & practice site
+subheading: A website built and maintained by Colton Sweeney
 mainpitch:
   title: Who Am I?
   description: >
@@ -37,8 +37,8 @@ intro:
       text: >-
         I'm currently enrolled at Wake Technical Community College studying for
         an Associates in Web Development. Here, I'm taking courses such as
-        Database Concepts, Advanced Markup and Scripting,
-        Networking/Security Foundation, and more.
+        Database Concepts, Advanced Markup and Scripting, Networking/Security
+        Foundation, and more.
   heading: What can I offer?
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
