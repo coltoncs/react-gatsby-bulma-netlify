@@ -21,9 +21,10 @@ export default class BlogIndexPage extends React.Component {
               backgroundColor: 'rgb(2, 43, 58)',
               color: 'white',
               padding: '1rem',
+              textShadow: '3px 3px 1px rgba(200, 200, 200, 0.25)',
             }}
           >
-            Latest Projects
+            My Latest Projects
           </h1>
         </div>
         <section className="section">

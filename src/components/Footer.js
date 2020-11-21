@@ -11,7 +11,7 @@ import github from '../img/github-icon.svg'
 
 const Footer = () => {
   //Create footer animation with slide up and fade in
-  const animation = useSpring({opacity: 1, transform: 'translate3d(0,0rem,0)', from: {opacity:0, transform: 'translate3d(0, 20rem, 0)'}, config: config.molasses})
+  const animation = useSpring({opacity: 1, transform: 'translate3d(0,0rem,0)', from: {opacity:0, transform: 'translate3d(0, 20rem, 0)'}, config: config.slow})
   
   //Return the footer view with the animation applied to the parent
   return (
