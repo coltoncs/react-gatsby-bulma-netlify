@@ -9,10 +9,9 @@ description: >-
 featuredpost: false
 featuredimage: /img/1.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - sitefinity
+  - how-to
+  - tutorial
 ---
 I spent the next week doing daily searches on Google and in Sitefinity’s own documentation to discover the ways in which developers and admins can customize their experience. At the end of the week, I had compiled four comprehensive step-by-step documents on how to customize various aspects of the CMS such as customizing navigation menus, forms, text boxes, and even widget templates. Sitefinity’s backend allows for hundreds more customization options than what’s offered out-of-the-box, so I encourage users to read through the documentation to unlock the full potential of the CMS.
 
