@@ -12,7 +12,6 @@ tags:
   - how-to
   - tutorial
   - sitefinity
-  - ''
 ---
 ![Whitepaper Image](/img/sitefinityhowto.png "Sitefinity: How to Customize Widget Templates")
 
