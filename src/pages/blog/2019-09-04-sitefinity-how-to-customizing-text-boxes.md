@@ -16,7 +16,6 @@ tags:
   - how-to
   - tutorial
   - sitefinity
-  - text-boxes
 ---
 ![How-To: Customize Text Boxes in Sitefinity](/img/textboxes-howto.jpg "Sitefinity How-To: Customizing Text Boxes")
 
