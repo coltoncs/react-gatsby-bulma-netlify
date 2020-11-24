@@ -3,6 +3,9 @@ import React from 'react'
 import { Link } from 'gatsby'
 import { useSpring, animated, config } from 'react-spring'
 
+//Components 
+import Wiggle from './Wiggle'
+
 //Styles & logos
 import logo from '../img/cs-logo.svg'
 import twitter from '../img/social/twitter.svg'
@@ -15,7 +18,7 @@ const Footer = () => {
   
   //Return the footer view with the animation applied to the parent
   return (
-    <animated.footer style={animation} className="footer has-background-black has-text-white-ter">
+    <animated.footer style={animation} className="footer has-background-primary has-text-white-ter">
       <div className="content has-text-centered">
         <img
           src={logo}
@@ -23,8 +26,8 @@ const Footer = () => {
           style={{ width: '14em', height: '10em' }}
         />
       </div>
-      <div className="content has-text-centered has-background-black has-text-white-ter">
-        <div className="container has-background-black has-text-white-ter">
+      <div className="content has-text-centered has-background-primary has-text-white-ter">
+        <div className="container has-background-primary has-text-white-ter">
           <div className="columns">
             <div className="column is-4">
               <section className="menu">
@@ -43,16 +46,6 @@ const Footer = () => {
                     <Link className="navbar-item" to="/portfolio">
                       Portfolio
                       </Link>
-                  </li>
-                  <li>
-                    <a
-                      className="navbar-item"
-                      href="/admin/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Admin
-                      </a>
                   </li>
                 </ul>
               </section>
@@ -75,26 +68,32 @@ const Footer = () => {
             </div>
             <div className="column is-4 social">
               <a title="twitter" href="https://twitter.com/coltonsdev">
+                <Wiggle rotation={15}>
                 <img
                   className="fas fa-lg"
                   src={twitter}
                   alt="Twitter"
                   style={{ width: '1em', height: '1em' }}
                 />
+                </Wiggle>
               </a>
               <a title="linkedin" href="https://www.linkedin.com/in/colton-sweeney/">
+                <Wiggle rotation={-15}>
                 <img
                   src={linkedin}
                   alt="LinkedIn"
                   style={{ width: '1em', height: '1em' }}
                 />
+                </Wiggle>
               </a>
               <a title="github" href="https://github.com/pizdetz">
+                <Wiggle rotation={15}>
                 <img
                   src={github}
                   alt="GitHub"
                   style={{ width: '1em', height: '1em' }}
                 />
+                </Wiggle>
               </a>
             </div>
           </div>

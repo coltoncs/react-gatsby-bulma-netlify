@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/cs-logo.svg'
 import { OutboundLink } from 'gatsby-plugin-google-analytics'
+import Wiggle from './Wiggle'
 
 const Navbar = () => {
   const [active, setActive] = useState(false);
@@ -22,7 +23,9 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Home">
-            <img src={logo} alt="Colton Sweeney" style={{ width: '88px' }} />
+            <Wiggle y={3}>
+              <img src={logo} alt="Colton Sweeney" style={{ width: '88px' }} />
+            </Wiggle>
           </Link>
           {/* Hamburger menu */}
           <div
@@ -41,17 +44,25 @@ const Navbar = () => {
         >
           <div className="navbar-start has-text-centered">
             <Link className="navbar-item" to="/about">
-              About
-              </Link>
+              <Wiggle x={2}>
+                About
+              </Wiggle>
+            </Link>
             <Link className="navbar-item" to="/portfolio">
-              Portfolio
-              </Link>
+              <Wiggle y={2}>
+                Portfolio
+              </Wiggle>
+            </Link>
             <Link className="navbar-item" to="/blog">
-              Blog
-              </Link>
+              <Wiggle x={-2}>
+                Blog
+              </Wiggle>
+            </Link>
             <Link className="navbar-item" to="/contact">
-              Contact
-              </Link>
+              <Wiggle y={-2}>
+                Contact
+              </Wiggle>
+            </Link>
           </div>
           <div className="navbar-end has-text-centered">
             <OutboundLink
@@ -60,9 +71,9 @@ const Navbar = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <span className="icon">
+              <Wiggle rotation={30} className="icon">
                 <img src={github} alt="Github" />
-              </span>
+              </Wiggle>
             </OutboundLink>
           </div>
         </div>

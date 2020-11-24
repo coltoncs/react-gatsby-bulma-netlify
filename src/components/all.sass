@@ -1,22 +1,23 @@
 @import "~bulma/sass/utilities/initial-variables"
-@import url('https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Merriweather&display=swap');
 
 // Config vars
-// Colton's brand colors
-$maastricht-blue: #022B3A
-$metallic-seaweed: #1F7A8C
+// Colton's brand colors 022B3A 
+$prussian-blue: #13293D
+$carolina-blue: #1B98E0
 $pale-aqua: #BFDBF7
 $azureish-white: #E1E5F2
 
-$primary: $maastricht-blue
-$primary-invert: #fff
+$primary: $prussian-blue
 $body-color: #333
-$black: $maastricht-blue
-$family-sans-serif: 'Fira Sans Condensed', sans-serif
-$family-monospace: 'Fira Mono', monospace
+$family-sans-serif: 'Fira Sans', sans-serif
+$family-serif: 'Merriweather', serif
+
+body
+  font-family: $family-serif
 
 .title, .is-size-2, .navbar-item
-  font-family: 'Fira Code', monospace
+  font-family: $family-sans-serif
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -74,10 +75,10 @@ $family-monospace: 'Fira Mono', monospace
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: $metallic-seaweed
+    color: $carolina-blue
     text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px $metallic-seaweed
-    box-shadow: inset 0 0 0 2px $metallic-seaweed
+    -webkit-box-shadow: inset 0 0 0 2px $carolina-blue
+    box-shadow: inset 0 0 0 2px $carolina-blue
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
@@ -140,7 +141,7 @@ $menu-label-color: $white-ter
 .no-route h1 
   font-size: 6rem
   margin: auto
-  font-family: 'Fira Code', sans-serif
+  font-family: $family-sans-serif
 
 .has_bg_color 
   background-image: linear-gradient(to right, yellow, white)
