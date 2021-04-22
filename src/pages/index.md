@@ -7,32 +7,32 @@ subheading: A website built and maintained by Colton Sweeney
 mainpitch:
   title: Who Am I?
   description: >
-    Hi, my name is Colton Sweeney and I'm a 22-year-old web developer and
+    Hi, my name is Colton Sweeney and I'm a 23-year-old web developer and
     graphic designer living in Raleigh, NC. 
 description: >-
-  Hello! I'm a full-time student working for a degree in Web Development, as
-  well as a part-time intern working at a local enterprise software company. 
+  I'm a part-time student at Wake Technical Community College with an immense
+  drive to work and achieve. My main job is a part-time position with Raleigh,
+  NC-based United Restaurant Equipment Company, however I also work as a
+  freelancer and contractor for various clients. View my blog to learn more!
 intro:
   blurbs:
     - image: /img/annabelle.jpg
       text: >-
-        I'm a 21-year-old web developer living in Apex, North Carolina. In my
+        I'm a 23-year-old web developer living in Apex, North Carolina. In my
         free time, I enjoy working out, practicing photography, playing video
-        games, learning new tech, and more. Head over to my blog page to see
-        what else I'm passionate about!
+        games, learning new tech, and more. 
     - image: /img/vs-code.PNG
       text: >-
-        I've been interested in software and web development for a number of
-        years. In my beginner period, I learned how to program with websites
-        like Udemy and Code Academy, while following practical tutorials to get
-        hands-on experience. 
+        I've been interested in software and web development for many years. I
+        enjoy creating responsive web applications with tech such as Node.js and
+        React, as well as blockchain development on the Ethereum network with
+        Solidity.
     - image: /img/headshot.jpg
       text: >
-        I currently work at Progress Software as a Product Marketing Intern.
-        Here I've worked for the past three years on a variety of projects, such
-        as revamping our sales briefing material for mobile consumption,
-        drafting and publishing a number of blog posts and other technical
-        articles on our Sitefinity product, and much more.
+        I currently work part-time as a Web Developer at United Restaurant
+        Equipment Company. Here, I manage the company's e-commerce website where
+        I'm responsible for transforming it to fit the needs of modern web
+        standards.
     - image: /img/adobestock_132531868.jpeg
       text: >-
         I'm currently enrolled at Wake Technical Community College studying for
