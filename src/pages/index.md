@@ -3,7 +3,7 @@ templateKey: index-page
 title: Welcome to my digital playground
 image: /img/rasp-pi4.jpg
 heading: About me
-subheading: A website built and maintained by Colton Sweeney
+subheading: my pursuit of knowledge in web development and blockchain technologies
 mainpitch:
   title: Who Am I?
   description: >
