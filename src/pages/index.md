@@ -3,17 +3,17 @@ templateKey: index-page
 title: Welcome to my digital playground
 image: /img/rasp-pi4.jpg
 heading: About me
-subheading: my pursuit of knowledge in web development and blockchain technologies
+subheading: Full-stack web and blockchain development
 mainpitch:
-  title: Who Am I?
+  title: Welcome
   description: >
-    Hi, my name is Colton Sweeney and I'm a 23-year-old web developer and
-    graphic designer living in Raleigh, NC. 
+    My name is Colton Sweeney and I'm a 24-year-old web developer and graphic
+    designer living in Raleigh, NC. 
 description: >-
-  I'm a part-time student at Wake Technical Community College with an immense
-  drive to work and achieve. My main job is a part-time position with Raleigh,
-  NC-based United Restaurant Equipment Company, however I also work as a
-  freelancer and contractor for various clients. View my blog to learn more!
+  I'm a busy, motivated individual with a drive to always challenge myself
+  further. My day job is a part-time position with Raleigh-based United
+  Restaurant Equipment Company, however I also work as a freelancer and
+  contractor for various clients. View my blog to learn more about my projects!
 intro:
   blurbs:
     - image: /img/annabelle.jpg
