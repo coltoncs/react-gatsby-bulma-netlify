@@ -3,7 +3,7 @@ templateKey: index-page
 title: Welcome to my digital playground
 image: /img/rasp-pi4.jpg
 heading: About me
-subheading: Full-stack web and blockchain development
+subheading: Full-stack web and application development & design
 mainpitch:
   title: Welcome
   description: >
