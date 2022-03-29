@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Welcome to my digital playground
+title: Welcome to my digital portfolio
 image: /img/rasp-pi4.jpg
 heading: About me
 subheading: Full-stack web and application development & design
