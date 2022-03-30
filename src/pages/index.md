@@ -12,8 +12,8 @@ mainpitch:
 description: >-
   I'm a busy, motivated individual with a drive to always challenge myself
   further. My day job is a part-time position with Raleigh-based United
-  Restaurant Equipment Company, however I also work as a freelancer and
-  contractor for various clients. View my blog to learn more about my projects!
+  Restaurant Equipment Company, however I also work as a freelancer in my spare
+  time. View my blog to learn more about my projects!
 intro:
   blurbs:
     - image: /img/annabelle.jpg
@@ -39,12 +39,9 @@ intro:
         an Associates in Web Development. Here, I'm taking courses such as
         Database Concepts, Advanced Markup and Scripting, Networking/Security
         Foundation, and more.
-  heading: What can I offer?
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Full-Stack Web & App Development
+  description: |+
+
 main:
   heading: Great coffee with no compromises
   description: >
