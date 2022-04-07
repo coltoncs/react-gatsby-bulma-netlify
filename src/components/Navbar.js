@@ -67,7 +67,7 @@ const Navbar = () => {
           <div className="navbar-end has-text-centered">
             <OutboundLink
               className="navbar-item"
-              href="https://github.com/pizdetz"
+              href="https://github.com/coltoncs"
               target="_blank"
               rel="noopener noreferrer"
             >
